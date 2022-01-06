@@ -1,5 +1,5 @@
-[//]: # (Nishant Awasthi)
+Nishant Awasthi
 
-[//]: # (awasthi.nishant@tftus.com)
+awasthi.nishant@tftus.com
 
-[//]: # (9968375329)
+9968375329
